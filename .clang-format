@@ -1,0 +1,19 @@
+BasedOnStyle: Google
+IndentWidth: 2
+ColumnLimit: 80
+AccessModifierOffset: -2
+AlignConsecutiveAssignments:
+  Enabled: true
+  AlignCompound: true
+  PadOperators: true
+AlignTrailingComments: true
+UseTab: Never
+AlignConsecutiveMacros:
+  Enabled: true
+  AcrossEmptyLines: true
+  AcrossComments: true
+AlignConsecutiveDeclarations:
+  Enabled: true
+  AcrossComments: true
+AlignConsecutiveBitFields: true
+AllowShortFunctionsOnASingleLine: Empty
